@@ -114,6 +114,7 @@ DOM으로 바꾼 HTML은 JavaScript가 조작할 수 있게 된다.
 3. 실행이 완료된 후 두번째 tag 를 파싱한다.
 
 **2. CSS(style sheets)를 parsing 하여 스타일 규칙을 얻는다.**
+
 css parsing 하여 CSSOM 생성한다.(스타일 규칙)
 
 **3. DOM tree를 생성하는 동시에, 이미 생성된 DOM tree 와 스타일 규칙(CSSOM)을 Attachment 한다.**
